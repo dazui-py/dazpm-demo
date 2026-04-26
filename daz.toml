@@ -9,6 +9,6 @@ supports = ["zsh"]
 
 [install]
 bins = ["bin/daz-demo"]
-plugins = ["plugins/demo.zsh"]
+plugins = ["plugins/nao-existe.zsh"]
 functions = []
 completions = []
