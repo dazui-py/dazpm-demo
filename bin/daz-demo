@@ -1,0 +1,2 @@
+#!/usr/bin/env zsh
+echo "demo binary from remote package"
